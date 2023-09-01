@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraph {
+  font-size: 18px;
+  font-weight: bold;
+  color: #475569;
+}
+
+.btn-icon {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.arrow-card {
+  width: 35px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin-top: 20px;
+}
